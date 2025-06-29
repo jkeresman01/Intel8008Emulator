@@ -12,7 +12,7 @@ export class Memory {
   }
 
   load(start, bytes) {
-    for (let i = 0; i < bytes.length; i++) {
+    for (let i = 0; i < bytes.length; ++i) {
       this.write(start + i, bytes[i]);
     }
   }
