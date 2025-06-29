@@ -1,2 +1,3 @@
-# Intel8008Emulator
-Emulator for Intel 8008 procesor
+# Intel8008Emulator --- WIP
+
+A simple web-based emulator for the Intel 8008 processor
